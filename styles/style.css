@@ -51,6 +51,7 @@
 }
 
 #closeIcon,
+#menu,
 .buttonCollection > button {
   cursor: pointer;
 }
